@@ -1,6 +1,6 @@
 {
   "name": "nobrac",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "define methods with no brackets.",
   "main": "index.js",
   "scripts": {
