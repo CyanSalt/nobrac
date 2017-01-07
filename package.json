@@ -1,0 +1,19 @@
+{
+  "name": "nobrac",
+  "version": "0.1.0",
+  "description": "define methods with no brackets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyanSalt/nobrac.git"
+  },
+  "author": "CyanSalt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyanSalt/nobrac/issues"
+  },
+  "homepage": "https://github.com/CyanSalt/nobrac#readme"
+}
